@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+body {
+  font-size: 12px; }
+
+ul div form {
+  border: 0; }
+
+img {
+  font-size: 0; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+em {
+  font-style: normal; }
+
+/*# sourceMappingURL=normalize.css.map */
